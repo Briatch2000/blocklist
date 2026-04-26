@@ -1,0 +1,4 @@
+# TikTok
+(^|\.)((tiktok|tiktokcdn|tiktokv|byteoversea|bytedance|ibytedtos|ipstatp|snssdk|muscdn|musical)\.(com|net|org|cn|tv))$
+(^|\.)p\d+-tiktokcdn-com\.akamaized\.net$
+(^|\.)lf\d+-ttcdn-tos\.pstatp\.com$
