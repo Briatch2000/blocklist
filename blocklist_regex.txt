@@ -4,7 +4,8 @@
 (^|\.)lf\d+-ttcdn-tos\.pstatp\.com$
 
 # WeChat
-^(.*\.)?(wechat|weixin|wx|qq|qzone|tenpay|tencent|gtimg|qpic|qlogo|idqqimg)\.(com|cn|net|org)\.?$
+^(.*\.)?(wechat|weixin|wx|qq|qzone|qpic|qlogo|gtimg|idqqimg)\.(com|cn|net|org)\.?$
+^.*(wechat|weixin|qq)\..*$
 
 # QQ
 (^|\.)((qq|tencent|qzone|qpic|qlogo|idqqimg|gtimg|myqcloud)\.(com|cn|net))$
