@@ -13,4 +13,4 @@
 (^|\.)((vk|vkontakte|userapi|vkuser|vk-cdn|vkplay|vkvideo)\.(com|ru|net|me))$
 
 # Bilibili
-(^|\.)((bilibili|bili|bilivideo|bilivideo-cdn|b23|b23tv|acgvideo|hdslb|upos)\.(com|cn|tv|net))$
+# (^|\.)((bilibili|bili|bilivideo|bilivideo-cdn|b23|b23tv|acgvideo|hdslb|upos)\.(com|cn|tv|net))$
