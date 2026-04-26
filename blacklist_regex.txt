@@ -5,7 +5,7 @@
 
 # WeChat
 # (^|\.)((wechat|weixin|qq|qpic|qlogo|qzone|tenpay|tenpaycdn|tencent|tencent-cloud|tencentvideo|gtimg|idqqimg)\.(com|cn|net))$
-^(.*\.)?wechat\.com\.?$
+^(.*\\.)?wechat\\.com\\.?$
 
 # QQ
 (^|\.)((qq|tencent|qzone|qpic|qlogo|idqqimg|gtimg|myqcloud)\.(com|cn|net))$
