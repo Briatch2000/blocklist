@@ -2,3 +2,9 @@
 (^|\.)((tiktok|tiktokcdn|tiktokv|byteoversea|bytedance|ibytedtos|ipstatp|snssdk|muscdn|musical)\.(com|net|org|cn|tv))$
 (^|\.)p\d+-tiktokcdn-com\.akamaized\.net$
 (^|\.)lf\d+-ttcdn-tos\.pstatp\.com$
+
+# WeChat
+(^|\.)((wechat|weixin|qq|qpic|qlogo|qzone|tenpay|tenpaycdn|tencent|tencent-cloud|tencentvideo|gtimg|idqqimg)\.(com|cn|net))$
+
+# QQ
+(^|\.)((qq|tencent|qzone|qpic|qlogo|idqqimg|gtimg|myqcloud)\.(com|cn|net))$
