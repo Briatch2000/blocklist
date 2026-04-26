@@ -8,3 +8,6 @@
 
 # QQ
 (^|\.)((qq|tencent|qzone|qpic|qlogo|idqqimg|gtimg|myqcloud)\.(com|cn|net))$
+
+# VK.com
+(^|\.)((vk|vkontakte|userapi|vkuser|vk-cdn|vkplay|vkvideo)\.(com|ru|net|me))$
