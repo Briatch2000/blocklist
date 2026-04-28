@@ -21,4 +21,4 @@
 # Block all subdomains starting with "ads"
 # ^ads\. 
 # Block tracking domains
-.apollo\.sk$
+.apollo.sk$
