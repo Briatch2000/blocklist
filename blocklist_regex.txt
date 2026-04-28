@@ -17,3 +17,8 @@
 (^|\.)((bilibili|bili|bilivideo|bilivideo-cdn|b23|b23tv|acgvideo|hdslb|upos)\.(com|cn|tv|net))$
 
 ^(.\.)?apollo.sk$
+
+# Block all subdomains starting with "ads"
+# ^ads\. 
+# Block tracking domains
+.apollo\.sk$
