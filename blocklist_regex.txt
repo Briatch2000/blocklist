@@ -15,3 +15,5 @@
 
 # Bilibili
 (^|\.)((bilibili|bili|bilivideo|bilivideo-cdn|b23|b23tv|acgvideo|hdslb|upos)\.(com|cn|tv|net))$
+
+^(.\.)?apollo.sk$
